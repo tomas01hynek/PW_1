@@ -1,0 +1,117 @@
+﻿@{
+    ViewData["Title"] = "Stream";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Create two equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 100px;
+            padding: 10px;
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        
+
+    </style>
+</head>
+
+
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+    <p>This page is for posts from users.</p>
+</div>
+
+
+
+@{
+    if (Model != null && Model.Products != null && Model.Products.Count > 0)
+    {
+
+        <section class="py-5">
+            <div class="container px-4 px-lg-5 mt-5">
+                <div class="justify-content-start">
+
+                    @for (int i = 0; i < Model.Products.Count; ++i)
+                    {
+                        <div class="col mb-5">
+                            <div class="card h-100">
+                                <!-- Product image-->
+                                <img class="card-img-top" src="@Model.Products[i].ImageSrc" alt="..." />
+                                <!-- Product details-->
+                                <div class="card-body p-4">
+                                    <div class="text-center">
+                                        <!-- Product name-->
+                                        <h5 class="fw-bolder">@Model.Products[i].Name</h5>
+                                        <!-- Product reviews-->
+                                        <div class="d-flex justify-content-center small text-warning mb-2">
+                                            <div class="bi-star-fill"></div>
+                                            <div class="bi-star-fill"></div>
+                                            <div class="bi-star-fill"></div>
+                                            <div class="bi-star-fill"></div>
+                                            <div class="bi-star-fill"></div>
+                                        </div>
+                                        <!-- Product price-->
+                                        @Model.Products[i].Price
+                                    </div>
+                                </div>
+                                <!-- Product actions-->
+
+                                <div class="row">
+                                    <div class="column">
+                                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Like</a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="column">
+                                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Comment</a></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="column">
+                                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                            <div class="text-center">
+                                                <a class="btn btn-outline-dark mt-auto" href="#">Repost</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="column">
+                                        <div class="card-footer p-4 pt-0 border-top-0">
+                                            <a class="btn btn-outline-dark mt-auto" href="#">Repost</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                       
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </section>
+
+    }
+}
+
+
+
+@section Styles
+    {
+    <link rel="stylesheet" href="~/css/shop_home.css" asp-append-version="true" />
+}

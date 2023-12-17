@@ -1,0 +1,97 @@
+﻿@model CarouselProductViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .row
+    {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .column
+    {
+        float: left;
+        width: 50%;
+        padding: 10px;
+    }
+
+
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Název sociální sítě</h1>
+</div>
+
+<div class="row">
+
+    <div class="column">
+
+    @{
+        if (Model != null && Model.Carousels != null && Model.Carousels.Count > 0)
+        {
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+
+                    @for (int i = 0; i < Model.Carousels.Count; ++i)
+                    {
+                        //string active = String.Empty;
+                        ViewBag.Active = String.Empty;
+                        if (i == 0)
+                        {
+                            ViewBag.Active = "active";
+                        }
+
+                        <div class="carousel-item @ViewBag.Active">
+                            <img src="@Model.Carousels[i].ImageSrc" class="d-block w-100" alt="@Model.Carousels[i].ImageAlt">
+                        </div>
+                    }
+
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        }
+    }
+
+    </div>
+
+    <div class="column">
+        <div class="text-center">
+            <h2>Přihlášení:</h2>
+        </div>
+
+        <div class="text-center">
+            <h4>E-mail:</h4>
+            <input placeholder="Zadej emailovou adresu:" />
+            <h4>Heslo:</h4>
+            <input placeholder="Zadej heslo k účtu:" />
+        </div>
+
+        <div class="text-center">
+            <h4>          </h4>
+            <button>Přihlásit se</button>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+@section Styles
+{
+    <link rel="stylesheet" href="~/css/shop_home.css" asp-append-version="true" />
+}
