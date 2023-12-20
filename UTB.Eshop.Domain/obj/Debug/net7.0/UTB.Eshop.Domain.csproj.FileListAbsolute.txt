@@ -1,0 +1,11 @@
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\bin\Debug\net7.0\UTB.Eshop.Domain.deps.json
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\bin\Debug\net7.0\UTB.Eshop.Domain.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\bin\Debug\net7.0\UTB.Eshop.Domain.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.AssemblyInfoInputs.cache
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.AssemblyInfo.cs
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\refint\UTB.Eshop.Domain.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\UTB.Eshop.Domain.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Domain\obj\Debug\net7.0\ref\UTB.Eshop.Domain.dll
