@@ -1,0 +1,17 @@
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Application.deps.json
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Application.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Application.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Domain.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Infrastructure.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Domain.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\bin\Debug\net7.0\UTB.Eshop.Infrastructure.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.csproj.AssemblyReference.cache
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.AssemblyInfoInputs.cache
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.AssemblyInfo.cs
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.csproj.CoreCompileInputs.cache
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.csproj.CopyComplete
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\refint\UTB.Eshop.Application.dll
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\UTB.Eshop.Application.pdb
+C:\Users\tdlgn\Desktop\2.kontrola\UTB.Eshop_23_ut08-master\UTB.Eshop_23_ut08-master\UTB.Eshop.Application\obj\Debug\net7.0\ref\UTB.Eshop.Application.dll
