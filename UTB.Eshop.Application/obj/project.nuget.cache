@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwr4qyVxACH2MdNzaBOYrph69AWTL+W/O7NmaMVhqDVQWi4Oidi7QCHEbiQfmFTGLAfhCeJHxdH65sp1MVk7Yw==",
+  "dgSpecHash": "rRUDi25lOW3IdD/cujLT2bsXKuAKKRw+GhtA9A/M9DXEr6RLwQBJ1QfeJes51FoCoTF8eshl5nzwXprfe6bFGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
+  "projectFilePath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tdlgn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",
     "C:\\Users\\tdlgn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.13\\microsoft.aspnetcore.cryptography.keyderivation.7.0.13.nupkg.sha512",

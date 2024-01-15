@@ -1,27 +1,31 @@
 ﻿@model Product
 
 @{
-    ViewData["Title"] = "Product - Create";
+    ViewData["Title"] = "Creating Page";
 }
-<h1>@ViewData["Title"]</h1>
+
+<div class="text-center" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">
+    <h1 class="display-4" style="margin:5px">@ViewData["Title"]</h1>
+</div>
+
 
 <form asp-action="Create" method="post">
     <div class="mb-3">
-        <label class="form-label" asp-for="Name">Name</label>
+        <label class="form-label" asp-for="Name" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">User nickname</label>
         <input class="form-control" asp-for="Name">
     </div>
     <div class="mb-3">
-        <label class="form-label" asp-for="Description">Description</label>
+        <label class="form-label" asp-for="Description" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">Description of post</label>
         <input class="form-control" asp-for="Description">
     </div>
     <div class="mb-3">
-        <label class="form-label" asp-for="Price">Price</label>
+        <label class="form-label" asp-for="Price" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">How many hearts (1)</label>
         <input class="form-control" asp-for="Price">
     </div>
     <div class="mb-3">
-        <label class="form-label" asp-for="ImageSrc">Image Source</label>
+        <label class="form-label" asp-for="ImageSrc" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">Image Source (for example [01-16]: /img/products/post_01.jpg)</label>
         <input class="form-control" asp-for="ImageSrc">
     </div>
     
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-primary" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">Submit</button>
 </form>

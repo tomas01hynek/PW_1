@@ -18,42 +18,42 @@ namespace UTB.Eshop.Infrastructure.Database
             products.Add(new Product
             {
                 Id = 1,
-                Name = "Out of context human race",
+                Name = "OUT OF CONTEXT HUMAN RACE",
                 Description = "Meme",
-                Price = 2,
-                ImageSrc = "/img/products/produkty-01.jpg"
+                Price = 1,
+                ImageSrc = "/img/products/post_01.jpg"
             });
             products.Add(new Product
             {
                 Id = 2,
-                Name = "Chleba",
-                Description = "Nejlepší chleba v galaxii",
-                Price = 40,
-                ImageSrc = "/img/products/produkty-02.jpg"
+                Name = "PETER_420",
+                Description = "Minecraft sunset",
+                Price = 1,
+                ImageSrc = "/img/products/post_02.jpg"
             });
             products.Add(new Product
             {
                 Id = 3,
-                Name = "Vánočka",
-                Description = "Nic moc, ale máme ji",
-                Price = 60,
-                ImageSrc = "/img/products/produkty-03.jpg"
+                Name = "COMPUTER HUMOR",
+                Description = "Chrome eats too much ram",
+                Price = 1,
+                ImageSrc = "/img/products/post_03.jpg"
             });
             products.Add(new Product
             {
                 Id = 4,
-                Name = "Bageta",
-                Description = "Nejlepší bageta ve sluneční soustavě",
-                Price = 40,
-                ImageSrc = "/img/products/produkty-05.jpg"
+                Name = "IRL HUMANS",
+                Description = "Dedication for my hobby",
+                Price = 1,
+                ImageSrc = "/img/products/post_05.jpg"
             });
             products.Add(new Product
             {
                 Id = 5,
-                Name = "Dalamánek",
-                Description = "Každý krogan by bojoval pro tento nejlepší dalamánek ve vesmíru",
-                Price = 8,
-                ImageSrc = "/img/products/produkty-06.jpg"
+                Name = "IRL HUMANS",
+                Description = "This is me!",
+                Price = 1,
+                ImageSrc = "/img/products/post_06.jpg"
             });
 
             return products;

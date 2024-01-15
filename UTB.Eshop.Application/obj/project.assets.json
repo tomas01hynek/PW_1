@@ -887,11 +887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
+      "projectUniqueName": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
       "projectName": "UTB.Eshop.Application",
-      "projectPath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
+      "projectPath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Application\\UTB.Eshop.Application.csproj",
       "packagesPath": "C:\\Users\\tdlgn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Application\\obj\\",
+      "outputPath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tdlgn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -908,11 +908,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Domain\\UTB.Eshop.Domain.csproj": {
-              "projectPath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Domain\\UTB.Eshop.Domain.csproj"
+            "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Domain\\UTB.Eshop.Domain.csproj": {
+              "projectPath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Domain\\UTB.Eshop.Domain.csproj"
             },
-            "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj"
+            "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj"
             }
           }
         }

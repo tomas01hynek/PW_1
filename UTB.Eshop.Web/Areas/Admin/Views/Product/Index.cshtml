@@ -1,11 +1,14 @@
 ﻿@model IList<Product>
 
 @{
-    ViewData["Title"] = "Product Administration";
+    ViewData["Title"] = "Posts management";
 }
-<h1>@ViewData["Title"]</h1>
 
-<a asp-action="Create">Create Product</a>
+
+<div class="text-center" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">
+    <h1 class="display-4" style="margin:5px">@ViewData["Title"]</h1>
+    <h1 class="display-6" style="margin-bottom:5px">Click on "Create" to start making your post <a asp-action="Create">Create Post</a>.</h1>
+</div>
 
 @{
     if (Model != null && Model.Count > 0)
@@ -13,12 +16,14 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th scope="col">@nameof(Product.Id)</th>
-                    <th scope="col">@nameof(Product.Name)</th>
-                    <th scope="col">@nameof(Product.Description)</th>
-                    <th scope="col">@nameof(Product.Price)</th>
-                    <th scope="col">@nameof(Product.ImageSrc)</th>
+                    
+                    <th scope="col">Id</th>
+                    <th scope="col">User name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Like</th>
+                    <th scope="col">ImageSrc</th>
                     <th scope="col">Delete</th>
+
                 </tr>
             </thead>
             <tbody>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o29hl+Zc3qIKtWnajvK4PMqvNqnlMHt/W5Xr3OknnNI6sbk9RLwkah7v3GiQlCkjiugZdwJCQAXUaF/p4S47MA==",
+  "dgSpecHash": "K9ZL9Cik2yo13E/iQ/H/8xXATNWicObCic5LzPa9SGaS7Yfr7uq66IT06gQSTCh4x3eMnBEraDLhkVvysJg9pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tdlgn\\Desktop\\2.kontrola\\UTB.Eshop_23_ut08-master\\UTB.Eshop_23_ut08-master\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Infrastructure\\UTB.Eshop.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tdlgn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tdlgn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",

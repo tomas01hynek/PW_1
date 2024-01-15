@@ -268,41 +268,41 @@ namespace UTB.Eshop.Infrastructure.Migrations
                         {
                             Id = 1,
                             Description = "Meme",
-                            ImageSrc = "/img/products/produkty-01.jpg",
-                            Name = "Out of context human race",
-                            Price = 2.0
+                            ImageSrc = "/img/products/post_01.jpg",
+                            Name = "OUT OF CONTEXT HUMAN RACE",
+                            Price = 1.0
                         },
                         new
                         {
                             Id = 2,
-                            Description = "Nejlepší chleba v galaxii",
-                            ImageSrc = "/img/products/produkty-02.jpg",
-                            Name = "Chleba",
-                            Price = 40.0
+                            Description = "Minecraft sunset",
+                            ImageSrc = "/img/products/post_02.jpg",
+                            Name = "PETER_420",
+                            Price = 1.0
                         },
                         new
                         {
                             Id = 3,
-                            Description = "Nic moc, ale máme ji",
-                            ImageSrc = "/img/products/produkty-03.jpg",
-                            Name = "Vánočka",
-                            Price = 60.0
+                            Description = "Chrome eats too much ram",
+                            ImageSrc = "/img/products/post_03.jpg",
+                            Name = "COMPUTER HUMOR",
+                            Price = 1.0
                         },
                         new
                         {
                             Id = 4,
-                            Description = "Nejlepší bageta ve sluneční soustavě",
-                            ImageSrc = "/img/products/produkty-05.jpg",
-                            Name = "Bageta",
-                            Price = 40.0
+                            Description = "Dedication for my hobby",
+                            ImageSrc = "/img/products/post_05.jpg",
+                            Name = "IRL HUMANS",
+                            Price = 1.0
                         },
                         new
                         {
                             Id = 5,
-                            Description = "Každý krogan by bojoval pro tento nejlepší dalamánek ve vesmíru",
-                            ImageSrc = "/img/products/produkty-06.jpg",
-                            Name = "Dalamánek",
-                            Price = 8.0
+                            Description = "This is me!",
+                            ImageSrc = "/img/products/post_06.jpg",
+                            Name = "IRL HUMANS",
+                            Price = 1.0
                         });
                 });
 

@@ -1,0 +1,60 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+@section Styles
+{
+    <link rel="stylesheet" href="~/css/login.css" />
+}
+
+<div id="logreg-forms">
+    <form asp-action="Login" method="post" class="form-signin">
+
+        <br />
+        <div class="text-center" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">
+            <h1 class="h2 mb-3 font-weight-normal" style="text-align: center; margin:5px">Social Site</h1>
+            <p style="margin-bottom:5px; text-align:center">Login with 3rd party account:</p>
+        </div>
+
+        <div class="social-login">
+            <button style="background-color:blue" class="btn facebook-btn social-btn text-white" type="button"><span><i class="fab fa-facebook-f"></i> Login with Twitter <img src="~/img/src/twitter.jpg" style="height: 30px; width: 30px"/></span> </button>
+            <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google-plus-g"></i> Login with Reddit <img src="~/img/src/reddit.jpg" style="height: 30px; width: 30px"/></span> </button>
+        </div>
+        <br />
+        <div class="text-center" style="color:blue; background-color:lightcyan; border-radius:10px; margin:10px">
+            <p style="margin-bottom:5px; text-align:center">Or with our account:</p>
+        </div>
+        <hr>
+        @{
+            if (Model?.LoginFailed == true)
+            {
+                <div class="text-danger">Login Failed!</div>
+            }
+        }
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <input asp-for="Username" type="text" id="inputUsername" class="form-control" placeholder="User name" autofocus="">
+        <span asp-validation-for="Username" class="text-danger"></span>
+        <input asp-for="Password" type="password" id="inputPassword" class="form-control" placeholder="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+        <br />
+
+        <div class="text-center">
+            <button class="btn btn-success btn-block" type="submit"><i class="fas fa-sign-in-alt"></i>Login <img src="~/img/src/approved.jpg" style="height: 20px; width: 20px"/></button>
+        </div>
+
+        <br />
+        <br />
+        <hr>
+        <!-- <p>Don't have an account!</p>  -->
+        <a asp-action="Register" style="background-color:blueviolet" class="btn btn-primary btn-block text-white" type="button" id="btn-signup"><i class="fas fa-user-plus"></i> Create new account <img src="~/img/src/star.png" style="height: 20px; width: 20px"/></a>
+
+    </form>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

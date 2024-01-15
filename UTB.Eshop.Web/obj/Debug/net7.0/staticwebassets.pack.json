@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\UTB.Eshop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UTB.Eshop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\css\\shop_home.css",
+      "PackagePath": "staticwebassets\\css\\shop_home.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\carousel\\Information-Technology-1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel\\Information-Technology-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\carousel\\how-to-become-an-information-technology-specialist160684886950141.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel\\how-to-become-an-information-technology-specialist160684886950141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\carousel\\itec-index-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel\\itec-index-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_01.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_02.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_03.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_04.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_05.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_06.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_07.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_08.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_09.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_10.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_11.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_12.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_13.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_14.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_15.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\products\\post_16.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\post_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\approved.jpg",
+      "PackagePath": "staticwebassets\\img\\src\\approved.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\arrow.png",
+      "PackagePath": "staticwebassets\\img\\src\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\bubble.png",
+      "PackagePath": "staticwebassets\\img\\src\\bubble.png"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\heart.png",
+      "PackagePath": "staticwebassets\\img\\src\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\reddit.jpg",
+      "PackagePath": "staticwebassets\\img\\src\\reddit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\star.png",
+      "PackagePath": "staticwebassets\\img\\src\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\img\\src\\twitter.jpg",
+      "PackagePath": "staticwebassets\\img\\src\\twitter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\js\\dialogs.js",
+      "PackagePath": "staticwebassets\\js\\dialogs.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\js\\product.min.js",
+      "PackagePath": "staticwebassets\\js\\product.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tdlgn\\Desktop\\test_2\\UTB.Social_Site\\UTB.Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UTB.Eshop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UTB.Eshop.Web.props",
+      "PackagePath": "build\\UTB.Eshop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UTB.Eshop.Web.props",
+      "PackagePath": "buildMultiTargeting\\UTB.Eshop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UTB.Eshop.Web.props",
+      "PackagePath": "buildTransitive\\UTB.Eshop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

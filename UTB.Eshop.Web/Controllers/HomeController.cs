@@ -28,18 +28,6 @@ namespace UTB.Eshop.Web.Controllers
             return View();
         }
 
-        //přidání streamu poustů
-        public IActionResult Stream()
-        {
-            //return View(viewModel);
-
-            //získání model
-            CarouselProductViewModel viewModel = _homeService.GetHomeIndexViewModel();
-            return View(viewModel);
-        }
-        //
-
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
